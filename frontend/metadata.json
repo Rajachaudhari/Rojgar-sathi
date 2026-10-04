@@ -1,0 +1,10 @@
+{
+  "name": "Rojgar Sathi — AI Livelihood Assistant",
+  "description": "An AI-powered, multilingual, voice-first livelihood assistance platform helping beneficiaries assess skills, bridge skill gaps, and access training, jobs, self-employment, and government schemes under Rojgar Sathi.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
